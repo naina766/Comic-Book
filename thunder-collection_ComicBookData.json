@@ -1,0 +1,470 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "ComicBookData",
+    "collectionId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+    "dateExported": "2024-10-30T12:34:18.595Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "fdaf4e86-a629-4545-a9cc-d2c288db9d1c",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-10-30T11:55:50.999Z",
+            "modified": "2024-10-30T12:16:18.777Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"V for Vendetta\",\r\n    \"authorName\": \"Alan Moore\",\r\n    \"yearOfPublication\": 1988,\r\n    \"price\": 16.99,\r\n    \"discount\": 10,\r\n    \"numberOfPages\": 296,\r\n    \"condition\": \"used\",\r\n    \"description\": \"A dystopian tale of a masked vigilante fighting against a totalitarian regime in a near-future England.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "aabff5d2-a5a2-4169-a365-5adc24af03d0",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "POST",
+            "sortNum": 20000,
+            "created": "2024-10-30T12:04:44.611Z",
+            "modified": "2024-10-30T12:04:44.611Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Batman: Year One\",\r\n    \"authorName\": \"Frank Miller\",\r\n    \"yearOfPublication\": 1987,\r\n    \"price\": 9.99,\r\n    \"discount\": 5,\r\n    \"numberOfPages\": 96,\r\n    \"condition\": \"new\",\r\n    \"description\": \"The story of Batman's first year as a crimefighter and his first encounter with James Gordon.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "2c83cd09-265d-4f82-90d9-9f0ee8d11363",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-10-30T12:05:05.104Z",
+            "modified": "2024-10-30T12:05:05.104Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Batman: Year One\",\r\n    \"authorName\": \"Frank Miller\",\r\n    \"yearOfPublication\": 1987,\r\n    \"price\": 9.99,\r\n    \"discount\": 5,\r\n    \"numberOfPages\": 96,\r\n    \"condition\": \"new\",\r\n    \"description\": \"The story of Batman's first year as a crimefighter and his first encounter with James Gordon.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "dc86c4ca-daf4-468e-9878-00c29745a3dc",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "POST",
+            "sortNum": 40000,
+            "created": "2024-10-30T12:05:58.373Z",
+            "modified": "2024-10-30T12:05:58.373Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Watchmen\",\r\n    \"authorName\": \"Alan Moore\",\r\n    \"yearOfPublication\": 1986,\r\n    \"price\": 19.99,\r\n    \"discount\": 10,\r\n    \"numberOfPages\": 416,\r\n    \"condition\": \"new\",\r\n    \"description\": \"A groundbreaking graphic novel that explores the complexities of superhero morality.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "074f9e67-8ef4-4f8a-b102-2baba95c49f7",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "GET",
+            "sortNum": 50000,
+            "created": "2024-10-30T12:06:57.110Z",
+            "modified": "2024-10-30T12:06:57.110Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Watchmen\",\r\n    \"authorName\": \"Alan Moore\",\r\n    \"yearOfPublication\": 1986,\r\n    \"price\": 19.99,\r\n    \"discount\": 10,\r\n    \"numberOfPages\": 416,\r\n    \"condition\": \"new\",\r\n    \"description\": \"A groundbreaking graphic novel that explores the complexities of superhero morality.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "2113a53f-0799-4dbc-9f3c-915f8b22a574",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "POST",
+            "sortNum": 60000,
+            "created": "2024-10-30T12:07:36.403Z",
+            "modified": "2024-10-30T12:07:36.403Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Spider-Man: Blue\",\r\n    \"authorName\": \"Jeph Loeb\",\r\n    \"yearOfPublication\": 2002,\r\n    \"price\": 12.99,\r\n    \"discount\": 0,\r\n    \"numberOfPages\": 144,\r\n    \"condition\": \"new\",\r\n    \"description\": \"Peter Parker reflects on his past with Gwen Stacy, remembering the ups and downs of their relationship.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "0710a467-a81b-497f-9dbd-736c3403eb5d",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "GET",
+            "sortNum": 70000,
+            "created": "2024-10-30T12:07:57.356Z",
+            "modified": "2024-10-30T12:07:57.356Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Spider-Man: Blue\",\r\n    \"authorName\": \"Jeph Loeb\",\r\n    \"yearOfPublication\": 2002,\r\n    \"price\": 12.99,\r\n    \"discount\": 0,\r\n    \"numberOfPages\": 144,\r\n    \"condition\": \"new\",\r\n    \"description\": \"Peter Parker reflects on his past with Gwen Stacy, remembering the ups and downs of their relationship.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "e0e5f97c-abf9-4e2c-b131-413242921e79",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "POST",
+            "sortNum": 80000,
+            "created": "2024-10-30T12:11:24.320Z",
+            "modified": "2024-10-30T12:11:24.320Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Spider-Man: Into the Spider-Verse\",\r\n    \"authorName\": \"Brian Michael Bendis\",\r\n    \"yearOfPublication\": 2018,\r\n    \"price\": 15.99,\r\n    \"discount\": 5,\r\n    \"numberOfPages\": 240,\r\n    \"condition\": \"new\",\r\n    \"description\": \"A thrilling adventure across multiple dimensions featuring Spider-Man.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "6d4a35bb-b596-4daf-8404-dda8bd768da7",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "POST",
+            "sortNum": 90000,
+            "created": "2024-10-30T12:11:40.129Z",
+            "modified": "2024-10-30T12:11:40.129Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Spider-Man: Into the Spider-Verse\",\r\n    \"authorName\": \"Brian Michael Bendis\",\r\n    \"yearOfPublication\": 2018,\r\n    \"price\": 15.99,\r\n    \"discount\": 5,\r\n    \"numberOfPages\": 240,\r\n    \"condition\": \"new\",\r\n    \"description\": \"A thrilling adventure across multiple dimensions featuring Spider-Man.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "61cbe02a-b6c5-4990-9b72-cade9d985520",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "GET",
+            "sortNum": 100000,
+            "created": "2024-10-30T12:12:00.013Z",
+            "modified": "2024-10-30T12:12:00.013Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Spider-Man: Into the Spider-Verse\",\r\n    \"authorName\": \"Brian Michael Bendis\",\r\n    \"yearOfPublication\": 2018,\r\n    \"price\": 15.99,\r\n    \"discount\": 5,\r\n    \"numberOfPages\": 240,\r\n    \"condition\": \"new\",\r\n    \"description\": \"A thrilling adventure across multiple dimensions featuring Spider-Man.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "43f4700b-741d-42e9-9457-7642d885428b",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics/67221ea243566fdef373f472",
+            "method": "GET",
+            "sortNum": 110000,
+            "created": "2024-10-30T12:12:44.055Z",
+            "modified": "2024-10-30T12:27:01.157Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n    \"bookName\": \"Maus\",\n    \"authorName\": \"Art Spiegelman\",\n    \"yearOfPublication\": 1980,\n    \"price\": 14.99,\n    \"discount\": 15,\n    \"numberOfPages\": 296,\n    \"condition\": \"used\",\n    \"description\": \"A unique Holocaust memoir told through the perspective of mice, chronicling a father and son's experiences.\"\n}\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "997bed8c-eaec-4a28-834c-5345f2a64977",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "POST",
+            "sortNum": 120000,
+            "created": "2024-10-30T12:13:00.674Z",
+            "modified": "2024-10-30T12:13:00.674Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Maus\",\r\n    \"authorName\": \"Art Spiegelman\",\r\n    \"yearOfPublication\": 1980,\r\n    \"price\": 14.99,\r\n    \"discount\": 15,\r\n    \"numberOfPages\": 296,\r\n    \"condition\": \"used\",\r\n    \"description\": \"A unique Holocaust memoir told through the perspective of mice, chronicling a father and son's experiences.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "95f2bc3e-4cc7-461f-af18-77b59191c8e0",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "POST",
+            "sortNum": 130000,
+            "created": "2024-10-30T12:13:33.156Z",
+            "modified": "2024-10-30T12:13:33.156Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Maus\",\r\n    \"authorName\": \"Art Spiegelman\",\r\n    \"yearOfPublication\": 1980,\r\n    \"price\": 14.99,\r\n    \"discount\": 15,\r\n    \"numberOfPages\": 296,\r\n    \"condition\": \"used\",\r\n    \"description\": \"A unique Holocaust memoir told through the perspective of mice, chronicling a father and son's experiences.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "fdd421f6-d554-4e3f-ae64-0706112b5069",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "POST",
+            "sortNum": 140000,
+            "created": "2024-10-30T12:13:58.818Z",
+            "modified": "2024-10-30T12:13:58.818Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Maus\",\r\n    \"authorName\": \"Art Spiegelman\",\r\n    \"yearOfPublication\": 1980,\r\n    \"price\": 14.99,\r\n    \"discount\": 15,\r\n    \"numberOfPages\": 296,\r\n    \"condition\": \"used\",\r\n    \"description\": \"A unique Holocaust memoir told through the perspective of mice, chronicling a father and son's experiences.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "dd85ea20-7281-4210-a0fc-1eb40623fa99",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "POST",
+            "sortNum": 150000,
+            "created": "2024-10-30T12:16:04.827Z",
+            "modified": "2024-10-30T12:16:04.827Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Maus\",\r\n    \"authorName\": \"Art Spiegelman\",\r\n    \"yearOfPublication\": 1980,\r\n    \"price\": 14.99,\r\n    \"discount\": 15,\r\n    \"numberOfPages\": 296,\r\n    \"condition\": \"used\",\r\n    \"description\": \"A unique Holocaust memoir told through the perspective of mice, chronicling a father and son's experiences.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "44d05712-94cc-487f-83b2-a6ff79193485",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "GET",
+            "sortNum": 160000,
+            "created": "2024-10-30T12:17:01.755Z",
+            "modified": "2024-10-30T12:17:01.755Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Maus\",\r\n    \"authorName\": \"Art Spiegelman\",\r\n    \"yearOfPublication\": 1980,\r\n    \"price\": 14.99,\r\n    \"discount\": 15,\r\n    \"numberOfPages\": 296,\r\n    \"condition\": \"used\",\r\n    \"description\": \"A unique Holocaust memoir told through the perspective of mice, chronicling a father and son's experiences.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "1ef09f2e-c938-4f49-aa39-387a1b2c2f9b",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "POST",
+            "sortNum": 170000,
+            "created": "2024-10-30T12:17:37.370Z",
+            "modified": "2024-10-30T12:17:37.370Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"V for Vendetta\",\r\n    \"authorName\": \"Alan Moore\",\r\n    \"yearOfPublication\": 1988,\r\n    \"price\": 16.99,\r\n    \"discount\": 10,\r\n    \"numberOfPages\": 296,\r\n    \"condition\": \"used\",\r\n    \"description\": \"A dystopian tale of a masked vigilante fighting against a totalitarian regime in a near-future England.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "c72dfa70-3f13-46c9-b290-061d964b42ae",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "GET",
+            "sortNum": 180000,
+            "created": "2024-10-30T12:17:55.664Z",
+            "modified": "2024-10-30T12:17:55.664Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"V for Vendetta\",\r\n    \"authorName\": \"Alan Moore\",\r\n    \"yearOfPublication\": 1988,\r\n    \"price\": 16.99,\r\n    \"discount\": 10,\r\n    \"numberOfPages\": 296,\r\n    \"condition\": \"used\",\r\n    \"description\": \"A dystopian tale of a masked vigilante fighting against a totalitarian regime in a near-future England.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "d8104353-edab-4941-9dc7-dac85a97bfda",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "POST",
+            "sortNum": 190000,
+            "created": "2024-10-30T12:18:28.056Z",
+            "modified": "2024-10-30T12:18:28.056Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Y: The Last Man - Unmanned\",\r\n    \"authorName\": \"Brian K. Vaughan\",\r\n    \"yearOfPublication\": 2002,\r\n    \"price\": 13.99,\r\n    \"discount\": 0,\r\n    \"numberOfPages\": 128,\r\n    \"condition\": \"new\",\r\n    \"description\": \"The first volume of a series about the last surviving man in a world where all other males have perished.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "0a3c2a81-0138-4cac-83a2-525a624f0d2d",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "GET",
+            "sortNum": 200000,
+            "created": "2024-10-30T12:18:45.738Z",
+            "modified": "2024-10-30T12:18:45.738Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Y: The Last Man - Unmanned\",\r\n    \"authorName\": \"Brian K. Vaughan\",\r\n    \"yearOfPublication\": 2002,\r\n    \"price\": 13.99,\r\n    \"discount\": 0,\r\n    \"numberOfPages\": 128,\r\n    \"condition\": \"new\",\r\n    \"description\": \"The first volume of a series about the last surviving man in a world where all other males have perished.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "b46a8331-2f98-4f55-827c-905c74f837b4",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "POST",
+            "sortNum": 210000,
+            "created": "2024-10-30T12:19:08.290Z",
+            "modified": "2024-10-30T12:19:08.290Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Saga, Volume 1\",\r\n    \"authorName\": \"Brian K. Vaughan\",\r\n    \"yearOfPublication\": 2012,\r\n    \"price\": 10.99,\r\n    \"discount\": 0,\r\n    \"numberOfPages\": 160,\r\n    \"condition\": \"new\",\r\n    \"description\": \"A science fiction fantasy epic that follows two soldiers from opposing sides as they try to raise their child in peace.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "eab2fdc1-588b-4d8b-9311-7b0fd9724034",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics",
+            "method": "GET",
+            "sortNum": 220000,
+            "created": "2024-10-30T12:19:22.523Z",
+            "modified": "2024-10-30T12:19:22.523Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Saga, Volume 1\",\r\n    \"authorName\": \"Brian K. Vaughan\",\r\n    \"yearOfPublication\": 2012,\r\n    \"price\": 10.99,\r\n    \"discount\": 0,\r\n    \"numberOfPages\": 160,\r\n    \"condition\": \"new\",\r\n    \"description\": \"A science fiction fantasy epic that follows two soldiers from opposing sides as they try to raise their child in peace.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "27b2e6af-e2bf-4827-93a4-9289c820d5b1",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics/6722243443566fdef373f4a8",
+            "method": "PUT",
+            "sortNum": 230000,
+            "created": "2024-10-30T12:21:29.517Z",
+            "modified": "2024-10-30T12:21:29.517Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Saga, Volume 1\",\r\n    \"authorName\": \"Brian K. Vaughan\",\r\n    \"yearOfPublication\": 2012,\r\n    \"price\": 10.99,\r\n    \"discount\": 0,\r\n    \"numberOfPages\": 160,\r\n    \"condition\": \"new\",\r\n    \"description\": \"A science fiction fantasy epic that follows two soldiers from opposing sides as they try to raise their child in peace.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "a8553227-7de8-4c89-b65f-f427fa838125",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics/6722243443566fdef373f4a8",
+            "method": "DELETE",
+            "sortNum": 240000,
+            "created": "2024-10-30T12:22:17.124Z",
+            "modified": "2024-10-30T12:22:17.124Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Saga, Volume 1\",\r\n    \"authorName\": \"Brian K. Vaughan\",\r\n    \"yearOfPublication\": 2012,\r\n    \"price\": 10.99,\r\n    \"discount\": 0,\r\n    \"numberOfPages\": 160,\r\n    \"condition\": \"new\",\r\n    \"description\": \"A science fiction fantasy epic that follows two soldiers from opposing sides as they try to raise their child in peace.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "451f675e-e2c1-4963-ada9-68f821f7e0b8",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics/67221ea243566fdef373f472",
+            "method": "GET",
+            "sortNum": 250000,
+            "created": "2024-10-30T12:27:29.510Z",
+            "modified": "2024-10-30T12:27:29.510Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Saga, Volume 1\",\r\n    \"authorName\": \"Brian K. Vaughan\",\r\n    \"yearOfPublication\": 2012,\r\n    \"price\": 10.99,\r\n    \"discount\": 0,\r\n    \"numberOfPages\": 160,\r\n    \"condition\": \"new\",\r\n    \"description\": \"A science fiction fantasy epic that follows two soldiers from opposing sides as they try to raise their child in peace.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "4459664a-2b6a-4d02-9e9e-336cdc0dd8e7",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics/67221ea243566fdef373f472",
+            "method": "PUT",
+            "sortNum": 260000,
+            "created": "2024-10-30T12:27:46.709Z",
+            "modified": "2024-10-30T12:27:46.709Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Saga, Volume 1\",\r\n    \"authorName\": \"Brian K. Vaughan\",\r\n    \"yearOfPublication\": 2012,\r\n    \"price\": 10.99,\r\n    \"discount\": 0,\r\n    \"numberOfPages\": 160,\r\n    \"condition\": \"new\",\r\n    \"description\": \"A science fiction fantasy epic that follows two soldiers from opposing sides as they try to raise their child in peace.\"\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "1ba3e0e1-187d-4892-8bc1-a6d7c42314cf",
+            "colId": "4df38da4-3bdc-4955-bddc-acc5c7cc4382",
+            "containerId": "",
+            "name": "http://localhost:5000/comics",
+            "url": "http://localhost:5000/comics/67221ea243566fdef373f472",
+            "method": "DELETE",
+            "sortNum": 270000,
+            "created": "2024-10-30T12:28:02.512Z",
+            "modified": "2024-10-30T12:28:02.512Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"bookName\": \"Saga, Volume 1\",\r\n    \"authorName\": \"Brian K. Vaughan\",\r\n    \"yearOfPublication\": 2012,\r\n    \"price\": 10.99,\r\n    \"discount\": 0,\r\n    \"numberOfPages\": 160,\r\n    \"condition\": \"new\",\r\n    \"description\": \"A science fiction fantasy epic that follows two soldiers from opposing sides as they try to raise their child in peace.\"\r\n}\r\n",
+                "form": []
+            }
+        }
+    ],
+    "ref": "qdxyLFP-30KeXPiBw4bTefSa_bQB9xYKdtqjaQWLD4wbsIizJKU2KDmeoIxen3FG9N_XXL8TobspHaut3H17OA"
+}
